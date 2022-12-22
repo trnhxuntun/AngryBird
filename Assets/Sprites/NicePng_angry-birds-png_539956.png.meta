@@ -1,0 +1,4933 @@
+fileFormatVersion: 2
+guid: 5c17c250942e46c4a81f8acb8bf2f4d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937
+        width: 40
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ec4ae8fcd1294c81dfc6d15074c9c
+      internalID: 1812086980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f628e47ce0dfd409f1a11359a68172
+      internalID: -690694846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2da9a79a7aad94e96c357adfe5842c
+      internalID: -2123850237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2763b7cebae44380b8d621472b093
+      internalID: -524824574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e48f9155b0d67b4eaa10b42853e3ea1
+      internalID: -1606681376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_5
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f433d3c19e1d4d8d2c8a8aab9718f
+      internalID: 1278404492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_6
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c017924a8e3dd469943ac1180675c2
+      internalID: -287959480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_7
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89d1ddcb8a93a949b387b1c48f670d5
+      internalID: -798984978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_8
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1015
+        width: 45
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb31d536d6aedf4081c4e0d51c115e0
+      internalID: 1563327292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_9
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1129
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8f5dfa748359c44808746ad30cb697
+      internalID: 2101235815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_10
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1130
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e3075de9c46748991c34a42453987
+      internalID: -458584579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_11
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 840
+        width: 342
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15020461935c0a4d89a14cd4d18e9d9
+      internalID: 1093317392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_12
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 842
+        width: 330
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff92bb208f970c44ae30f11805f9899
+      internalID: 195957220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_13
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 929
+        width: 111
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ce2b543716c8e47b2ce461a4b5a76d
+      internalID: -197194654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_14
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1004
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a781c4c30493f845aa831cb52025989
+      internalID: -116724366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 829
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6837c89c3891ed142984b1afa0e2f4cd
+      internalID: -442347211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 959
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa73908f1e000764fbcf9f4f87653f3b
+      internalID: -1816239591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 967
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a797871fdf5b294093cca6295e6e220
+      internalID: -1889531298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 933
+        width: 109
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea8ad62661c92428e095e497504a63
+      internalID: -905689766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 874
+        width: 117
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f6e60d1ffbf74cba2d91f93be88d5
+      internalID: 1312052760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_20
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 882
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b549ea3009b4940b053ff777cd4261
+      internalID: -1040605314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_21
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 882
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137c71bf2fa939a4e9cdb35684a69167
+      internalID: -331488271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_22
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 882
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e893e88ea206f8a4aaf457e982cf8526
+      internalID: 921313830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_23
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 882
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdbd72d664622647939149b8011a1db
+      internalID: 1891214335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 864
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb85ea0470a4e49aabe9f790ffc648
+      internalID: -723427795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 893
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d458f1747ef67f8409c0e6f175aa549d
+      internalID: -1916077511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 892
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96e2508b06ef624ab08e91364a19139
+      internalID: -1549932810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 888
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2104bba409498e343ace1b116a039bec
+      internalID: 271985787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_28
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 853
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c1a137a0e517349a90e9f19205ee93
+      internalID: -1237533610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_29
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 829
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7e07a7bdc38ee46a541c877447b9e3
+      internalID: -1392803196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_30
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 895
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cfc09e6dc48d641bb6f969686c72ac
+      internalID: -2093140987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 860
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda95e91605bb9b40b911d9abed685cc
+      internalID: 709982939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 845
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e05ec5e7453b4cb332e71bd208c7c
+      internalID: 591229339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 863
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea756be3b9ba6f4bb148a2e9134da1e
+      internalID: 782149825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5cdffc8b396754aa32d4802bbaa1d8
+      internalID: -1231823257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 745
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8083926fd7b604da022bf522737627
+      internalID: 2069351824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 747
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e488217b93f734d95a677e0b20598d
+      internalID: 1577618393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 748
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d492e57a0cab40a0c6e215dac1bdc
+      internalID: 869190716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_38
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 750
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1c5631bfb47d439bb3cb2841b5fd9
+      internalID: 1908679467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 750
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45fc002e4317414ea836085bef9992e
+      internalID: 645336801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_40
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 750
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fbff9894fcf7b449a7e17af60d7fb3
+      internalID: -422648515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_41
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 751
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cd8876eba31e44f9a5753cccb416df
+      internalID: -1903567065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_42
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 751
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5707d55e28e6b499554b039bedd24c
+      internalID: -198803524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_43
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 707
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a07c46a83a9be04ca82d1fcb65b3dbd
+      internalID: -2144749966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_44
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 726
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1ef40c63dc73041bb5be9db1156636
+      internalID: 1174705351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_45
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 717
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f7335ade419e747924679442f960a2
+      internalID: -811849242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_46
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 828
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a60517e4cfb1d4d81acfeb06df2b8d
+      internalID: -1215975641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 794
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04249d06d359c0649be742226a365e39
+      internalID: -1934607290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 673
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9383cf019708b14aa1f858415a05a7c
+      internalID: 638021281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_49
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 631
+        width: 169
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c6517537eabc84198033de5078a549
+      internalID: 791431698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_50
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 723
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8aec381380b343a4d0db5cc751e0a
+      internalID: 2045057342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_51
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 794
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a6a9a28e8f3b348ac819fecf981c4a
+      internalID: 579139777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_52
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 795
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281acedb3ed10fa4fa16f4b60bdd7e01
+      internalID: 2027815730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 691
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422051c8618fbf4d8355cf6e80236ef
+      internalID: -833989681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_54
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 775
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be267576b5e05498c80f8aa15cbb2a
+      internalID: 756505161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_55
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 758
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e5a5c20a862df48a20b2f415f71d07
+      internalID: 78360005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_56
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 756
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90aaeee7fc25df48976db3f8ba8d5da
+      internalID: 1464386979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_57
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 761
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f183262ba049b47a0d008c81c2d2be
+      internalID: -816200299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 643
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f245225cc8a284088e465618601bbd
+      internalID: 1034821532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 647
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4586a04037b744aa3dffaf9c8c647
+      internalID: -571825684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 652
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd8d018f352edb488227fb6f00c1c3c
+      internalID: 1902547113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_61
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 655
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22644d74b2e38714f8e9da603a0a4e05
+      internalID: -586372727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_62
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 661
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32249fce876074429514cd8779fc527
+      internalID: -1175058926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_63
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 661
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d391ad26a26f4b9b078b3eaed1073
+      internalID: 1990315832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_64
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 661
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b58e3c8dabeba74db24b0ba60ecf54b
+      internalID: 1370354639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_65
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 661
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d13a3f0a1f94e74cbdaafba26d7a1ce
+      internalID: -180548479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_66
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 698
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a275b440e166a4c9534d3adbe9f83a
+      internalID: 585848605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_67
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 586
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6d5897fdcebe044bae0f047620d4c7
+      internalID: 1460009863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_68
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 618
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74859b1526f2d4a4ba8a04146c59faef
+      internalID: 1420335216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_69
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 624
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a729e996b4b50649bb9f62428dfab5d
+      internalID: -1631388444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_70
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 641
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54874c520e0c41e41a43f212f3f6ab8c
+      internalID: -307793949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 660
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7119e9aa6aa5d7c43b85c93adb09bc81
+      internalID: -316914577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 624
+        width: 104
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddafec1db2f24d41b3475625d4d486f
+      internalID: 1108531266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8143f0a363bb92a4ea3738ba4e342517
+      internalID: -1327127844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_74
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 625
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea32d1030cd37448321c5c971c6ca6
+      internalID: 1086413179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 542
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1caf43dd85cfea44b3a14061b979672
+      internalID: -1691059958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_76
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 549
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5559570af2f534b9ac837883ffe6c6
+      internalID: -894689241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 556
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2481913646c004cb591edc3a5b40c3
+      internalID: -259710862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_78
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 570
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8c357b9aed41e4a973c53d8bd2ec23
+      internalID: 1533436752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_79
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 570
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33a41d823f0a79488c835cd81c691c6
+      internalID: -511519499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_80
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 571
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fc92246f8973247b79264ae1af166c
+      internalID: -705840207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_81
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 571
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309f3488e77f5e849a0fd65654da2bc4
+      internalID: -1687888007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_82
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 571
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab134f34209f2cc4883ad38e9d625e37
+      internalID: 569898497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_83
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 607
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60d7c3a4435b2e45ab132155d4e0a54
+      internalID: -1063305066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_84
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 541
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f19a12eff97a04b96dfc7cd0f08618
+      internalID: 1173799997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_85
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 540
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897037bd7327e1b40993ff4bf223dd61
+      internalID: -43292008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 595
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab3262f7e79984429d4760bc959bd61
+      internalID: 1641191656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_87
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 581
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6801738935106541bb11b4f2780e42d
+      internalID: 806319746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 552
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1913c6e31080048a6b54f72e3dd1d4
+      internalID: 119591477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_89
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 423
+        width: 180
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11eef8326bd53d498f0ff401e2bd0ed
+      internalID: 400820818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_90
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 534
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9689a3a7caf90e24da7620d4940c763c
+      internalID: -1653019871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_91
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 530
+        width: 126
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560dc165068665546a1df40ee2809137
+      internalID: -1205638591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_92
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 550
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c7e198e6112724cb7df5cf2f1d3fbf
+      internalID: 748712962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e5bc36c3f9957428e651c17f4d1803
+      internalID: -1073697471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 564
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d169e43aca994a82e924c75af0666
+      internalID: 1445283450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_95
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 556
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c1eaac3813c7e42a14d707acfa032a
+      internalID: 744292773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 485
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100d39be03fffd54ea7958e1c3102bc8
+      internalID: 230905591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_97
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 486
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8858c38f0fb9a42ba0f0a494fccb40
+      internalID: 1240034565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_98
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 489
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616010f4b1a56f841b7043deb83b8a90
+      internalID: -2056146885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_99
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 488
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e353f38d01c1847a44c10d7e824be4
+      internalID: -1813963191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_100
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 490
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ccf876c101d93468c9d44937e662f0
+      internalID: 1407478768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_101
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 490
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e27324f34a8a4fa21172bfc40e624
+      internalID: 799511831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_102
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 495
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1979fb9f333f48826d299db3d5576
+      internalID: 1855182217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_103
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 467
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62bfa802b4ef942946003ad39dc9a5
+      internalID: -110539390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 532
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca6598984a4b5d438049cf8eb477b62
+      internalID: 1034324793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 526
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a365102b6ccfc344da9708b2dbb3160e
+      internalID: -2008580024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 533
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeafdc2200b07d4a8c2b27f7fe4cd54
+      internalID: -582689977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_107
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 440
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27132af548ee94a4d91c5166bc0f1980
+      internalID: 868899620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_108
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 448
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d4f92a361e4d1439e9336f5294c6c3
+      internalID: -1423320037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 460
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f8af22848cf66419f144827c0308df
+      internalID: -989762152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 501
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa5f2defdedf65418e8eff4f23e0b58
+      internalID: -2040300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_111
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 450
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8fe9e9021b05e4fb2ba1a52f01a71d
+      internalID: -189743026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_112
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 457
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a82d12d0dbbd504dae3bd124ef68d8b
+      internalID: 1187424491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_113
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 463
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d727fa961f629428a6269d8148cc0f
+      internalID: -507837501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_114
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 464
+        width: 138
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74543670b682e714d9b0d1cfc0fef405
+      internalID: 957760453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_115
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 484
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2698255cf803c8d44ad4b903d69e4f41
+      internalID: -330723524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed2535a6bf8bc4c87c6b0746d0113c
+      internalID: -1073232471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_117
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 469
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b85b5340f3fa604faaeaa043cd365e6
+      internalID: 1599791942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_118
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 467
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b1a026156c1b94090e3ab1576fd668
+      internalID: 1902152061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_119
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 479
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7edcc127df1b824c8a98a806e36ef96
+      internalID: 682272532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_120
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 400
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50ddb587a4b0934297d9bb52987156b
+      internalID: -265272351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_121
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 429
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c79af93b7c6eb340af44b93af3e854c
+      internalID: -345754967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_122
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 410
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce7dd1fe9ec62b458d8c43122ecef01
+      internalID: -1554232850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_123
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 411
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b29b12754f1904cae8f422906d2728
+      internalID: 856390402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_124
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 411
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f829a9012fa7c468d356b34ff9aedc
+      internalID: 954727322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_125
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 439
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f44f9cd3430d4b9acc32d3b09b269
+      internalID: -945998116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264741ba2126c7e4e9e749ddd046997a
+      internalID: -67187885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_127
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 438
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57ae41fb9ac24f43a671ca9cd03b834
+      internalID: 2102735699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_128
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 438
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79907e2008271048a8b98d34c885031
+      internalID: -1364223077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_129
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 309
+        width: 127
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027f63d33fda824a9b4b9955b407879
+      internalID: -1219035753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_130
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 365
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603490bcf918049499487bdfb0ebafd1
+      internalID: 1875719103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_131
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 378
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c154cd986143f42a7d1d0f116b1cad
+      internalID: 1347690635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_132
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 414
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7ea154ecd24b4428c7b336a73425d0
+      internalID: 1906855180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_133
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 352
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec91751306d5444bd94c3c7ecf8403
+      internalID: 20915284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_134
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 456
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9219cf19f63e23c4eb9f814869ba90c2
+      internalID: -1828979190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_135
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 452
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9059a27b04f74574e89b099e3cb8e223
+      internalID: 1353967216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_136
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 403
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a07b6a144967134d8dc7cea0ca4e7e4
+      internalID: -1057047303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_137
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 420
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9ce1afdfcb6f438b6b2fd9b3ee92d
+      internalID: -6187721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_138
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 384
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d15c4a0c2332304cb491d9295f21a04
+      internalID: -1767573975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_139
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 452
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413b71c80ce9b04b859b2452f143777
+      internalID: -1093513666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 350
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c65339bda44c845871501483d8feb2
+      internalID: 628996338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_141
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 366
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64572ad6bf3bf042b976f6a32c0f06a
+      internalID: 1972696285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_142
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 441
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3641240a95efbc4ea02f37360cd70a6
+      internalID: 490950387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_143
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 442
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbf450f1669b80488d6921bc177c5e3
+      internalID: 1554958703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363d4464cdc1365418f9fd6588c0aaa2
+      internalID: 177012622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 411
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d6ea66f8cc6834d950df7fffe32bed
+      internalID: 1237589711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_146
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 340
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767d54ea5db81c346a3a43bbbe93e8ac
+      internalID: 703559579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_147
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 426
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e549380cc596f409d894b1181f6377
+      internalID: 925260049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_148
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 427
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4072912004358424ab24d61a133a993e
+      internalID: -1713960969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_149
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 372
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c285d187006f3488b71a2f700c0375
+      internalID: 1790557754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_150
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 301
+        width: 105
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af911091d11ead940af82b6cbb2fa75f
+      internalID: -541544484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_151
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 332
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f07368ceacb1440b097bc4e72612ff
+      internalID: 858040306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_152
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 412
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d212dae321125964893b41e0dbed04f7
+      internalID: 1774530918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_153
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 413
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc0f55935cd15469a3356516d91609
+      internalID: 1071124715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_154
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 381
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1854122b044f60d40917bc3882aaeb6d
+      internalID: 718488845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_155
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 379
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a870241c6e45048b8cbc3bb65f701a
+      internalID: 1920248671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_156
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 331
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c320b107f588a454f9372ae15150ee38
+      internalID: -1934771427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_157
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 336
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b2084ea404a1a499376f5a8e5e761b
+      internalID: 1786484411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_158
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 343
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777f26bdffd61244593067b22d351a4e
+      internalID: -1079516433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_159
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 343
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ce78b4eb0c9e2499b5b98141ee04f5
+      internalID: 558485629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_160
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 402
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022e68ead1ae5844ac478b3f2b9756c
+      internalID: -798670626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_161
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 398
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a78a52ff8c9440840425022ebd53c
+      internalID: -1711548761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_162
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 402
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4960e6a493560e4d99f783d9dc20c65
+      internalID: 1462574946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ecead4b6beace4eb8a2106039fd576
+      internalID: 1882894615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_164
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 353
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d40062d57302a34b9394e09c2a00585
+      internalID: 1378696102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_165
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 270
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5bec84a437fde49af69951d7c7cf5f
+      internalID: -174730368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_166
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 315
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c9070c0358afb41badf1bf452c9885
+      internalID: -1751589102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_167
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 315
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c47372cd5506345abea4ded041b1c6
+      internalID: -475121649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_168
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 298
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97873a31682a08c4aac4403a40de5b64
+      internalID: -1165045875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_169
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 311
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4109504a16729604e924b9de2da21618
+      internalID: -623999647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_170
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 339
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5d3b26578fc9347a2ec665768c0594
+      internalID: 1561455838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_171
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 345
+        width: 142
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fc2f01fae4140469f463490fe38372
+      internalID: -800193433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a058fea9e8491b94c9a173b7e6c287d3
+      internalID: 1891516526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_173
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 192
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac30f95b0084c64897271682e39fe96
+      internalID: 1599140452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_174
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 240
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87eadd269b465f4fb6e7f05d7fe1dc5
+      internalID: -1961638044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_175
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 251
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde76f16790dfd43b77ab431a25b3b4
+      internalID: 1050701364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_176
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 231
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa8888fbceb1d469a8651db6008451
+      internalID: 1753364267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_177
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 266
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0be4165a795f024280fde9fb1527176
+      internalID: -720159651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_178
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 253
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e16266b4341ad143be10ff7322dd150
+      internalID: 1397472552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_179
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 283
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcce3d5944691f49b54b02cc7244f5a
+      internalID: -61535665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_180
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 275
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d790776ca018b0a4eba8a2ecc5afd740
+      internalID: -545917399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_181
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 295
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c219b72958e5a44c8c7d9a44cba14ea
+      internalID: -688347034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_182
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 293
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3508dc68e2e30c3468890dab90587567
+      internalID: -848152466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_183
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 296
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ade0fa589fed4a8ff95e397c9dedf
+      internalID: -72432531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_184
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 299
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64371ada95318174c91ffd7964fd2bb4
+      internalID: 669017165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_185
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 298
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0c4f99086f3a41aa6ac7dcdf1da97
+      internalID: -1284156782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8e2ffbe8c746458dd442018728d97
+      internalID: -1396356077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_187
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 178
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4147da1f33ce4c64c8223eb603234156
+      internalID: -1176275797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_188
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 216
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11cd072c1dce7142a5a4255fc677b4a
+      internalID: -1107923122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_189
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 234
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ff83b923105c40b0bc0e41a96bd15
+      internalID: -1953795997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_190
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 146
+        width: 137
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f043665d4fdeb1a4cafa4170540e3cbe
+      internalID: 513842686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_191
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 227
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b988296b4917ae4d9f4ceeeaee5b0bf
+      internalID: -1167348215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_192
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 227
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4515c025c7444faae23c9dd60c5dc
+      internalID: -83355650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ea53d11f99824cbb1b818fc2d9f86
+      internalID: 1045891712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_194
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 239
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb33b07d80f76479bfffdf438ffa41
+      internalID: 1787234970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_195
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 154
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c780f8d7cdc9b45b6b055b41c77083
+      internalID: 1845312305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_196
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 176
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a15843b42072148957b41c4136ac9c
+      internalID: -520572990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0615429bab631a24d8403513af074913
+      internalID: -192849175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_198
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d3dc40a5840964c94c7c1fdd84887a
+      internalID: 1273352350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_199
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4851006f760a5b343bab31b5c659d768
+      internalID: 1272089560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_200
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 147
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93c0ae9415bf7348b2a9780cafa7a5d
+      internalID: 1785122572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_201
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 167
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620b83087ba08ff48adf83f8a6e1b342
+      internalID: 1914857763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_202
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 186
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814ea4c52237dd4f993a7b5811f76d1
+      internalID: 1998518948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_203
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 179
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1fb55d15735e4daccdae7aea877bc
+      internalID: -705732955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_204
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 181
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f732d323098c546a2f97f305308949
+      internalID: 1543155815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_205
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87147af4f5adbc049bede12b6b71686f
+      internalID: 770684812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_206
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 135
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787055890bef56b41ad996b721cb555b
+      internalID: -2080640412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_207
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 133
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82449368f0e6040b9d066d42ec6101
+      internalID: -1865240977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_208
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 134
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96f46f1eef0c640b426ecc6d365b9a
+      internalID: -458546454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_209
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 133
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e2e9b7f476b7409f0c3a285b1bf3b
+      internalID: 261571579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_210
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 136
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db060ea18d9fc94ba51b31cf855a1ad
+      internalID: -403505607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_211
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 138
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0184deb89a10fc2428e3246dd4377f7c
+      internalID: 829655350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_212
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 134
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e59e838ec35149bb312bd50eb70dc
+      internalID: 1900309943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_213
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 153
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa0d32425a491940bd596b4106a0e29
+      internalID: -1165529035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9049dddd414fb43bdbb58b0dc8146b
+      internalID: -731851503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_215
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c19970e6d334d45a0c0fc30cf0bc6e
+      internalID: -1924002215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_216
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e23a349289c50409479c5dd95fecff
+      internalID: -581301972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-birds-png_539956_217
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 131
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ab34a29db07fb44975ea0d407a793b
+      internalID: 1541405786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NicePng_angry-birds-png_539956_166: -1751589102
+      NicePng_angry-birds-png_539956_133: 20915284
+      NicePng_angry-birds-png_539956_71: -316914577
+      NicePng_angry-birds-png_539956_82: 569898497
+      NicePng_angry-birds-png_539956_152: 1774530918
+      NicePng_angry-birds-png_539956_103: -110539390
+      NicePng_angry-birds-png_539956_51: 579139777
+      NicePng_angry-birds-png_539956_88: 119591477
+      NicePng_angry-birds-png_539956_217: 1541405786
+      NicePng_angry-birds-png_539956_162: 1462574946
+      NicePng_angry-birds-png_539956_130: 1875719103
+      NicePng_angry-birds-png_539956_26: -1549932810
+      NicePng_angry-birds-png_539956_129: -1219035753
+      NicePng_angry-birds-png_539956_3: -524824574
+      NicePng_angry-birds-png_539956_209: 261571579
+      NicePng_angry-birds-png_539956_25: -1916077511
+      NicePng_angry-birds-png_539956_206: -2080640412
+      NicePng_angry-birds-png_539956_77: -259710862
+      NicePng_angry-birds-png_539956_114: 957760453
+      NicePng_angry-birds-png_539956_87: 806319746
+      NicePng_angry-birds-png_539956_202: 1998518948
+      NicePng_angry-birds-png_539956_64: 1370354639
+      NicePng_angry-birds-png_539956_118: 1902152061
+      NicePng_angry-birds-png_539956_163: 1882894615
+      NicePng_angry-birds-png_539956_66: 585848605
+      NicePng_angry-birds-png_539956_0: 1812086980
+      NicePng_angry-birds-png_539956_207: -1865240977
+      NicePng_angry-birds-png_539956_21: -331488271
+      NicePng_angry-birds-png_539956_158: -1079516433
+      NicePng_angry-birds-png_539956_63: 1990315832
+      NicePng_angry-birds-png_539956_58: 1034821532
+      NicePng_angry-birds-png_539956_125: -945998116
+      NicePng_angry-birds-png_539956_79: -511519499
+      NicePng_angry-birds-png_539956_121: -345754967
+      NicePng_angry-birds-png_539956_69: -1631388444
+      NicePng_angry-birds-png_539956_170: 1561455838
+      NicePng_angry-birds-png_539956_107: 868899620
+      NicePng_angry-birds-png_539956_37: 869190716
+      NicePng_angry-birds-png_539956_156: -1934771427
+      NicePng_angry-birds-png_539956_105: -2008580024
+      NicePng_angry-birds-png_539956_100: 1407478768
+      NicePng_angry-birds-png_539956_27: 271985787
+      NicePng_angry-birds-png_539956_68: 1420335216
+      NicePng_angry-birds-png_539956_72: 1108531266
+      NicePng_angry-birds-png_539956_113: -507837501
+      NicePng_angry-birds-png_539956_197: -192849175
+      NicePng_angry-birds-png_539956_185: -1284156782
+      NicePng_angry-birds-png_539956_6: -287959480
+      NicePng_angry-birds-png_539956_145: 1237589711
+      NicePng_angry-birds-png_539956_117: 1599791942
+      NicePng_angry-birds-png_539956_14: -116724366
+      NicePng_angry-birds-png_539956_154: 718488845
+      NicePng_angry-birds-png_539956_165: -174730368
+      NicePng_angry-birds-png_539956_131: 1347690635
+      NicePng_angry-birds-png_539956_17: -1889531298
+      NicePng_angry-birds-png_539956_142: 490950387
+      NicePng_angry-birds-png_539956_52: 2027815730
+      NicePng_angry-birds-png_539956_208: -458546454
+      NicePng_angry-birds-png_539956_50: 2045057342
+      NicePng_angry-birds-png_539956_120: -265272351
+      NicePng_angry-birds-png_539956_112: 1187424491
+      NicePng_angry-birds-png_539956_22: 921313830
+      NicePng_angry-birds-png_539956_18: -905689766
+      NicePng_angry-birds-png_539956_49: 791431698
+      NicePng_angry-birds-png_539956_182: -848152466
+      NicePng_angry-birds-png_539956_183: -72432531
+      NicePng_angry-birds-png_539956_161: -1711548761
+      NicePng_angry-birds-png_539956_138: -1767573975
+      NicePng_angry-birds-png_539956_216: -581301972
+      NicePng_angry-birds-png_539956_23: 1891214335
+      NicePng_angry-birds-png_539956_62: -1175058926
+      NicePng_angry-birds-png_539956_178: 1397472552
+      NicePng_angry-birds-png_539956_111: -189743026
+      NicePng_angry-birds-png_539956_160: -798670626
+      NicePng_angry-birds-png_539956_73: -1327127844
+      NicePng_angry-birds-png_539956_106: -582689977
+      NicePng_angry-birds-png_539956_180: -545917399
+      NicePng_angry-birds-png_539956_143: 1554958703
+      NicePng_angry-birds-png_539956_33: 782149825
+      NicePng_angry-birds-png_539956_116: -1073232471
+      NicePng_angry-birds-png_539956_80: -705840207
+      NicePng_angry-birds-png_539956_213: -1165529035
+      NicePng_angry-birds-png_539956_46: -1215975641
+      NicePng_angry-birds-png_539956_53: -833989681
+      NicePng_angry-birds-png_539956_177: -720159651
+      NicePng_angry-birds-png_539956_102: 1855182217
+      NicePng_angry-birds-png_539956_115: -330723524
+      NicePng_angry-birds-png_539956_139: -1093513666
+      NicePng_angry-birds-png_539956_134: -1828979190
+      NicePng_angry-birds-png_539956_119: 682272532
+      NicePng_angry-birds-png_539956_141: 1972696285
+      NicePng_angry-birds-png_539956_171: -800193433
+      NicePng_angry-birds-png_539956_190: 513842686
+      NicePng_angry-birds-png_539956_203: -705732955
+      NicePng_angry-birds-png_539956_104: 1034324793
+      NicePng_angry-birds-png_539956_36: 1577618393
+      NicePng_angry-birds-png_539956_11: 1093317392
+      NicePng_angry-birds-png_539956_1: -690694846
+      NicePng_angry-birds-png_539956_30: -2093140987
+      NicePng_angry-birds-png_539956_85: -43292008
+      NicePng_angry-birds-png_539956_45: -811849242
+      NicePng_angry-birds-png_539956_132: 1906855180
+      NicePng_angry-birds-png_539956_78: 1533436752
+      NicePng_angry-birds-png_539956_150: -541544484
+      NicePng_angry-birds-png_539956_219: -1345211187
+      NicePng_angry-birds-png_539956_191: -1167348215
+      NicePng_angry-birds-png_539956_211: 829655350
+      NicePng_angry-birds-png_539956_144: 177012622
+      NicePng_angry-birds-png_539956_124: 954727322
+      NicePng_angry-birds-png_539956_109: -989762152
+      NicePng_angry-birds-png_539956_99: -1813963191
+      NicePng_angry-birds-png_539956_95: 744292773
+      NicePng_angry-birds-png_539956_35: 2069351824
+      NicePng_angry-birds-png_539956_194: 1787234970
+      NicePng_angry-birds-png_539956_123: 856390402
+      NicePng_angry-birds-png_539956_92: 748712962
+      NicePng_angry-birds-png_539956_127: 2102735699
+      NicePng_angry-birds-png_539956_19: 1312052760
+      NicePng_angry-birds-png_539956_108: -1423320037
+      NicePng_angry-birds-png_539956_94: 1445283450
+      NicePng_angry-birds-png_539956_176: 1753364267
+      NicePng_angry-birds-png_539956_54: 756505161
+      NicePng_angry-birds-png_539956_212: 1900309943
+      NicePng_angry-birds-png_539956_39: 645336801
+      NicePng_angry-birds-png_539956_110: -2040300228
+      NicePng_angry-birds-png_539956_168: -1165045875
+      NicePng_angry-birds-png_539956_67: 1460009863
+      NicePng_angry-birds-png_539956_201: 1914857763
+      NicePng_angry-birds-png_539956_155: 1920248671
+      NicePng_angry-birds-png_539956_86: 1641191656
+      NicePng_angry-birds-png_539956_2: -2123850237
+      NicePng_angry-birds-png_539956_101: 799511831
+      NicePng_angry-birds-png_539956_188: -1107923122
+      NicePng_angry-birds-png_539956_12: 195957220
+      NicePng_angry-birds-png_539956_179: -61535665
+      NicePng_angry-birds-png_539956_47: -1934607290
+      NicePng_angry-birds-png_539956_169: -623999647
+      NicePng_angry-birds-png_539956_96: 230905591
+      NicePng_angry-birds-png_539956_74: 1086413179
+      NicePng_angry-birds-png_539956_89: 400820818
+      NicePng_angry-birds-png_539956_192: -83355650
+      NicePng_angry-birds-png_539956_16: -1816239591
+      NicePng_angry-birds-png_539956_196: -520572990
+      NicePng_angry-birds-png_539956_149: 1790557754
+      NicePng_angry-birds-png_539956_189: -1953795997
+      NicePng_angry-birds-png_539956_70: -307793949
+      NicePng_angry-birds-png_539956_122: -1554232850
+      NicePng_angry-birds-png_539956_193: 1045891712
+      NicePng_angry-birds-png_539956_93: -1073697471
+      NicePng_angry-birds-png_539956_175: 1050701364
+      NicePng_angry-birds-png_539956_7: -798984978
+      NicePng_angry-birds-png_539956_15: -442347211
+      NicePng_angry-birds-png_539956_75: -1691059958
+      NicePng_angry-birds-png_539956_43: -2144749966
+      NicePng_angry-birds-png_539956_98: -2056146885
+      NicePng_angry-birds-png_539956_34: -1231823257
+      NicePng_angry-birds-png_539956_157: 1786484411
+      NicePng_angry-birds-png_539956_172: 1891516526
+      NicePng_angry-birds-png_539956_136: -1057047303
+      NicePng_angry-birds-png_539956_29: -1392803196
+      NicePng_angry-birds-png_539956_147: 925260049
+      NicePng_angry-birds-png_539956_148: -1713960969
+      NicePng_angry-birds-png_539956_31: 709982939
+      NicePng_angry-birds-png_539956_84: 1173799997
+      NicePng_angry-birds-png_539956_184: 669017165
+      NicePng_angry-birds-png_539956_20: -1040605314
+      NicePng_angry-birds-png_539956_173: 1599140452
+      NicePng_angry-birds-png_539956_38: 1908679467
+      NicePng_angry-birds-png_539956_59: -571825684
+      NicePng_angry-birds-png_539956_187: -1176275797
+      NicePng_angry-birds-png_539956_83: -1063305066
+      NicePng_angry-birds-png_539956_56: 1464386979
+      NicePng_angry-birds-png_539956_215: -1924002215
+      NicePng_angry-birds-png_539956_13: -197194654
+      NicePng_angry-birds-png_539956_195: 1845312305
+      NicePng_angry-birds-png_539956_9: 2101235815
+      NicePng_angry-birds-png_539956_199: 1272089560
+      NicePng_angry-birds-png_539956_44: 1174705351
+      NicePng_angry-birds-png_539956_128: -1364223077
+      NicePng_angry-birds-png_539956_159: 558485629
+      NicePng_angry-birds-png_539956_151: 858040306
+      NicePng_angry-birds-png_539956_153: 1071124715
+      NicePng_angry-birds-png_539956_198: 1273352350
+      NicePng_angry-birds-png_539956_97: 1240034565
+      NicePng_angry-birds-png_539956_81: -1687888007
+      NicePng_angry-birds-png_539956_55: 78360005
+      NicePng_angry-birds-png_539956_40: -422648515
+      NicePng_angry-birds-png_539956_186: -1396356077
+      NicePng_angry-birds-png_539956_32: 591229339
+      NicePng_angry-birds-png_539956_140: 628996338
+      NicePng_angry-birds-png_539956_164: 1378696102
+      NicePng_angry-birds-png_539956_204: 1543155815
+      NicePng_angry-birds-png_539956_5: 1278404492
+      NicePng_angry-birds-png_539956_200: 1785122572
+      NicePng_angry-birds-png_539956_167: -475121649
+      NicePng_angry-birds-png_539956_48: 638021281
+      NicePng_angry-birds-png_539956_41: -1903567065
+      NicePng_angry-birds-png_539956_91: -1205638591
+      NicePng_angry-birds-png_539956_174: -1961638044
+      NicePng_angry-birds-png_539956_4: -1606681376
+      NicePng_angry-birds-png_539956_126: -67187885
+      NicePng_angry-birds-png_539956_10: -458584579
+      NicePng_angry-birds-png_539956_181: -688347034
+      NicePng_angry-birds-png_539956_135: 1353967216
+      NicePng_angry-birds-png_539956_218: 1381427998
+      NicePng_angry-birds-png_539956_42: -198803524
+      NicePng_angry-birds-png_539956_24: -723427795
+      NicePng_angry-birds-png_539956_137: -6187721
+      NicePng_angry-birds-png_539956_57: -816200299
+      NicePng_angry-birds-png_539956_60: 1902547113
+      NicePng_angry-birds-png_539956_61: -586372727
+      NicePng_angry-birds-png_539956_65: -180548479
+      NicePng_angry-birds-png_539956_90: -1653019871
+      NicePng_angry-birds-png_539956_28: -1237533610
+      NicePng_angry-birds-png_539956_76: -894689241
+      NicePng_angry-birds-png_539956_205: 770684812
+      NicePng_angry-birds-png_539956_8: 1563327292
+      NicePng_angry-birds-png_539956_146: 703559579
+      NicePng_angry-birds-png_539956_210: -403505607
+      NicePng_angry-birds-png_539956_214: -731851503
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
