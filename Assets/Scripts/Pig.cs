@@ -14,7 +14,7 @@ public class Pig : MonoBehaviour
     {
         if (collision.relativeVelocity.magnitude > defend)
         {
-            Destroy(gameObject, 0.1f);
+            Destroy(gameObject, 0.01f);
             Instantiate(effect, transform.position, Quaternion.identity);
             GameManager.Score += 50;
             GameManager.pig++;
@@ -22,6 +22,7 @@ public class Pig : MonoBehaviour
             {
                 aus.PlayOneShot(destroysound);
             }
+            Debug.Log("Giet duoc 1 heo");
         }
         else
         {

@@ -33,7 +33,7 @@ public class GameManager : MonoBehaviour
     }
     void Update()
     {
-        if (pig == piginmap && bird > 3 || pig == piginmap && bird < 3)
+        if (pig == piginmap && bird >= 3 || pig == piginmap && bird < 3)
         {
             winui();
             LostUI.gameObject.SetActive(false);
@@ -43,6 +43,7 @@ public class GameManager : MonoBehaviour
         diem.text = Score.ToString();
         if(bird > 3 && pig < piginmap)
         {
+            
             lostui();
             levelcomplete.PlayOneShot(thua);
             Debug.Log("Thua man choi");
