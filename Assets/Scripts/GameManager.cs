@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.UIElements;
+
 public class GameManager : MonoBehaviour
 {
     public Canvas WinUI;
@@ -17,10 +19,17 @@ public class GameManager : MonoBehaviour
     public int bird;
     public Text diem;
     public Text life;
+    public GameObject video;
+    public int i = 0;
     void Start()
     {
         
+        Invoke("videoman", 16f);
     }
+    public void videoman()
+    {
+        video.gameObject.SetActive(false);
+    }    
     public void lostui()
     {
         LostUI.gameObject.SetActive(true);
@@ -28,16 +37,37 @@ public class GameManager : MonoBehaviour
     }
     public void winui()
     {
-        WinUI.gameObject.SetActive(true);
+        if(i== 1)
+        {
+            Debug.Log("ch?y màn hình th?ng");
+            video.gameObject.SetActive(false);
+            WinUI.gameObject.SetActive(true);
+            LostUI.gameObject.SetActive(false);
+            levelcomplete.PlayOneShot(thang);
+            i++;
+        }    
         
     }
     void Update()
     {
         if (pig == piginmap && bird >= 3 || pig == piginmap && bird < 3)
         {
-            winui();
-            LostUI.gameObject.SetActive(false);
-            levelcomplete.PlayOneShot(thang);
+            if(pig==4)
+            {
+                if(i==0)
+                {
+                    video.gameObject.SetActive(true);
+                    i++;
+                    Debug.Log("ch?y video th?ng");
+                }                   
+                Invoke("winui", 12f);
+            }   
+            else
+            {
+                winui();
+            }    
+            
+            
         }    
             
         diem.text = Score.ToString();
