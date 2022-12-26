@@ -20,14 +20,16 @@ public class GameManager : MonoBehaviour
     public Text diem;
     public Text life;
     public GameObject video;
+    public int checkman1;
     public int i = 0;
     void Start()
-    {
-        
-        Invoke("videoman", 16f);
+    {        
+        if(checkman1 == 5)
+        Invoke("videoman", 13f);
     }
     public void videoman()
     {
+        if (piginmap==4 || checkman1==5)
         video.gameObject.SetActive(false);
     }    
     public void lostui()
@@ -40,7 +42,8 @@ public class GameManager : MonoBehaviour
         if(i== 1)
         {
             Debug.Log("ch?y màn hình th?ng");
-            video.gameObject.SetActive(false);
+            if (piginmap == 4)
+                video.gameObject.SetActive(false);
             WinUI.gameObject.SetActive(true);
             LostUI.gameObject.SetActive(false);
             levelcomplete.PlayOneShot(thang);
@@ -59,12 +62,18 @@ public class GameManager : MonoBehaviour
                     video.gameObject.SetActive(true);
                     i++;
                     Debug.Log("ch?y video th?ng");
+                    Invoke("winui", 10f);
                 }                   
-                Invoke("winui", 12f);
+                
             }   
             else
             {
-                winui();
+                if(i==0)
+                {
+                    i++;
+                    winui();
+                }    
+                
             }    
             
             
