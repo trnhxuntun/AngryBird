@@ -29,14 +29,17 @@ public class GameManager : MonoBehaviour
     }
     public void videoman()
     {
+        //xu ly dung video intro
         if (piginmap==4 || checkman1==5)
         video.gameObject.SetActive(false);
     }    
+    //man hinh thua
     public void lostui()
     {
         LostUI.gameObject.SetActive(true);
         
     }
+    //man hinh thang
     public void winui()
     {
         if(i== 1)
@@ -51,8 +54,10 @@ public class GameManager : MonoBehaviour
         }    
         
     }
+
     void Update()
     {
+        
         if (pig == piginmap && bird >= 3 || pig == piginmap && bird < 3)
         {
             if(pig==4)
@@ -65,7 +70,8 @@ public class GameManager : MonoBehaviour
                     Invoke("winui", 10f);
                 }                   
                 
-            }   
+            }
+            //check so lon de chay video ket thuc game
             else
             {
                 if(i==0)
@@ -80,13 +86,14 @@ public class GameManager : MonoBehaviour
         }    
             
         diem.text = Score.ToString();
+        //diem nguoi choi
         if(bird > 3 && pig < piginmap)
-        {
-            
+        {          
             lostui();
             levelcomplete.PlayOneShot(thua);
             Debug.Log("Thua man choi");
         }
+        //chay man hinh thua
         if(bird <=3)
         life.text = Convert.ToString(3-bird);
     }

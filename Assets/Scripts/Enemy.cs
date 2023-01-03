@@ -11,6 +11,7 @@ public class Enemy : MonoBehaviour
     public AudioClip destroysound;
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        //Tru defend cua vat can khi va cham
         if(collision.relativeVelocity.magnitude > defend)
         {
             Destroy(gameObject,0.1f);
